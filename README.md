@@ -7,8 +7,8 @@
 `npm install `
 
 ### 使い方
-ターミナルから以下のコマンドを実行
+ターミナルから以下のコマンドを実行  
 `node get_game_schedule.js`
 
-./get-dataディレクトリ配下に以下の形式のCSVが作成される。
+./get-dataディレクトリ配下に以下の形式のCSVが作成される。  
 `YYYY_MM_DD_HHIISS_gameData.csv`
