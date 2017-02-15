@@ -1,0 +1,18 @@
+{
+  "name": "npb_get_game",
+  "version": "1.0.0",
+  "description": "getting baseball game schedule from npm web site.",
+  "main": "get_game_schedule.js",
+  "devDependencies": {
+    "cheerio": "^0.22.0",
+    "cheerio-httpcli": "^0.6.11",
+    "date-utils": "^1.2.21",
+    "json2csv": "^3.7.3",
+    "request": "^2.79.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ryuta",
+  "license": "ISC"
+}
